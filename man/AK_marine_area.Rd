@@ -17,7 +17,7 @@ AK_marine_area(area = "NMFS Reporting Area", prj = "dd")
 "BSIERP Region"
 "BSIERP Name"}
 
-\item{prj}{Projection: Default is dd, which sets WGS 1984, ak_prj sets NAD 1983 Alaska Albers}
+\item{prj}{Projection: Default is dd, which sets WGS 1984, prj sets NAD 1983 Alaska Albers}
 }
 \value{
 

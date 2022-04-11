@@ -16,7 +16,7 @@
 #' "BSIERP Region"
 #' "BSIERP Name"
 #'
-#' @param prj Projection: Default is dd, which sets WGS 1984, ak_prj sets NAD 1983 Alaska Albers
+#' @param prj Projection: Default is dd, which sets WGS 1984, prj sets NAD 1983 Alaska Albers
 #'
 #'
 #' @return

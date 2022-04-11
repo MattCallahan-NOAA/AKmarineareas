@@ -17,3 +17,5 @@ use_r("data")
 
 #code>insert roxygen skeleton
 #build>install and restart
+
+use_readme_rmd()
