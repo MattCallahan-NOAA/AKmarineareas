@@ -19,3 +19,7 @@ use_r("data")
 #build>install and restart
 
 use_readme_rmd()
+
+use_git()
+
+
