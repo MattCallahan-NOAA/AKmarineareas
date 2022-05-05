@@ -23,8 +23,10 @@
 #' @export
 #'
 #' @examples AK_marine_area(area="NMFS Reporting Area", prj="dd")
-AK_marine_area<-function(area="NMFS Reporting Area", prj="dd"){
-  readRDS(paste0("data/AK_Marine_areas_",prj,".RDS")) %>%
+AK_marine_area<-function(area="NMFS Reporting Area", prj="dd" ){
+  readRDS(system.file("extdata",
+                      paste0("AK_Marine_areas_",prj,".RDS"),
+                      package="AKmarineareas")) %>%
     filter(Area_Type==area)
 }
 

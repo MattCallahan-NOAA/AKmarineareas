@@ -5,5 +5,5 @@
 #'
 #' @examples AK<-AK_basemap()
 AK_basemap<-function(){
-  readRDS("data/AKbasemap.RDS")
+  readRDS(system.file("extdata", "AKbasemap.RDS", package="AKmarineareas"))
 }
