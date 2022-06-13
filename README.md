@@ -45,7 +45,7 @@ AK_marine_area()%>%
   theme_void()
 ```
 
-<img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
 
 ``` r
 ##plot ecosystem subregions, projected version
@@ -55,7 +55,7 @@ AK_marine_area(area="Ecosystem Subarea", prj="prj")%>%
   theme_void()
 ```
 
-<img src="man/figures/README-unnamed-chunk-2-2.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-3-2.png" width="100%" />
 
 **AK_basemap()** This function imports a basemap of the Alaska
 coastline.
@@ -69,7 +69,7 @@ AK_basemap()%>%
   theme_void()
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
 
 **remove_dateline()** These polygons have a line through them at the
 international dateline that does not reflect an area boundary. Other
@@ -86,4 +86,4 @@ AK_marine_area(area="Ecosystem Area", prj="prj")%>%
   theme_void()
 ```
 
-<img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-5-1.png" width="100%" />

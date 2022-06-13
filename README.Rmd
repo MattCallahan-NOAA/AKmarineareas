@@ -24,7 +24,7 @@ I created the AKmarineareas package to make mapping and spatial analysis of Alas
 
 You can install the development version of AKmarineareas from [GitHub](https://github.com/) with:
 
-``` r
+``` {r, eval=FALSE}
 # install.packages("devtools")
 devtools::install_github("MattCallahan-NOAA/AKmarineareas")
 ```
