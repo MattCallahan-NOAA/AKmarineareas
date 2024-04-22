@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Use https://github.com/MattCallahan-NOAA/akmarineareas2 instead. AKMarineareas will not be maintained.
+**This package is depreciated. Use https://github.com/MattCallahan-NOAA/akmarineareas2 instead. AKMarineareas will not be maintained.**
 
 I created the AKmarineareas package to make mapping and spatial analysis
 of Alaska marine management and ecosystem areas easier in R. This
